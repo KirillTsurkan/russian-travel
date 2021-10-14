@@ -3,15 +3,29 @@
   max-width: 984px;
 }
 
-@media (max-width: 800px) {
+@media (min-width: 1024px) and (max-width: 1279px) {
   .places {
-    padding: 88px 24px 8px;
+    padding: 0 48px 8px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .places {
+    margin: o auto;
+  }
+}
+
+
+@media screen and (min-width: 426px) and (max-width: 768px) {
+  .places {
+    max-width: calc(100% - 96px);
+    padding-top: 0;
   }
 }
 
 @media (max-width: 425px) {
   .places {
-    padding: 64px 0 14px;
+    padding: 0 0 14px;
   }
 }
 
