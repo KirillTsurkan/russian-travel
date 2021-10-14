@@ -1,0 +1,16 @@
+.header__lang-link_status_active {
+  text-decoration: underline;
+  max-width: 30px;
+}
+
+@media (max-width: 425px) {
+  .header__lang-link_status_active {
+    font-size: 18px;
+    line-height: 20px;
+    max-width: 22px;
+    min-height: 20px;
+  }
+}
+
+
+

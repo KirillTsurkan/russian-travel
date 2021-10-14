@@ -1,0 +1,19 @@
+.header__links {
+  display: flex;
+  align-items: flex-end;
+  margin: 0 ;
+  list-style-type: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .header__links {
+
+  }
+}
+@media (min-width: 320px) {
+  .header__links {
+  }
+}
+
+
