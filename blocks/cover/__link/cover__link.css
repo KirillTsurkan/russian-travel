@@ -11,6 +11,8 @@
   min-height: 58vw;
   position: relative;
   z-index: 1;
+  max-height: 740px;
+  height: 62.5vw;
 }
 
 
