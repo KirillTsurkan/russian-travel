@@ -44,3 +44,10 @@
     margin-bottom: 50px;
   }
 }
+
+@media screen and (max-width: 320px) {
+.place:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 52px;
+  }
+}
