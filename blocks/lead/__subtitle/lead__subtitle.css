@@ -23,6 +23,9 @@
   }
 }
 
+/*TODO: change font-size on mobile - max width means "no more than" so the styles bellow apply only to the screen < 320px*/
+
+
 @media screen and (max-width: 320px) {
   .lead__subtitle {
     font-size: 16px;
