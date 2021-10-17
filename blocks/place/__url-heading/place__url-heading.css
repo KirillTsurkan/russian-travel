@@ -5,4 +5,6 @@
   color: #aaa;
   display: block;
   margin-bottom: 12px;
+  margin-top: 0;
+  text-transform: uppercase;
 }

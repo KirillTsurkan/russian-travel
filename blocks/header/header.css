@@ -1,4 +1,5 @@
 .header {
+  font-family: 'Inter', 'Arial', 'Sans-serif';
   max-width: calc(100% - 96px);
   display: flex;
   justify-content: space-between;
